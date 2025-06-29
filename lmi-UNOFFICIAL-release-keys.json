@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1751195809,
+      "filename": "lineage-22.2-2025-06-29-11-16-49-UNOFFICIAL-lmi.zip",
+      "id": "183dc94849a0cdc53059b1cd197544b0",
+      "sha256": "183dc94849a0cdc53059b1cd197544b0bc2c21650b260f51f1dc04b73a387612",
+      "romtype": "nightly",
+      "size": 1843454796,
+      "url": "https://github.com/android-kxxt/cicd/releases/download/lmi-2025-06-29-11-16-49-release//lineage-22.2-2025-06-29-11-16-49-UNOFFICIAL-lmi.zip",
+      "version": "22.2"
+    }
+  ]
+}
