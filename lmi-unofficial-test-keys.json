@@ -69,6 +69,16 @@
       "size": 1849389184,
       "url": "https://github.com/android-kxxt/cicd/releases/download/lmi-2025-08-01-04-02-32-test//lineage-22.2-2025-08-01-04-02-32-UNOFFICIAL-lmi-test.zip",
       "version": "22.2"
+    },
+    {
+      "datetime": 1754625457,
+      "filename": "lineage-22.2-2025-08-08-03-57-37-UNOFFICIAL-lmi-test.zip",
+      "id": "c683777bfd85a504da60a076be898f7f",
+      "sha256": "c683777bfd85a504da60a076be898f7f208d198c74ca24ce385ad0a7ace90cb0",
+      "romtype": "UNOFFICIAL",
+      "size": 1849385629,
+      "url": "https://github.com/android-kxxt/cicd/releases/download/lmi-2025-08-08-03-57-37-test//lineage-22.2-2025-08-08-03-57-37-UNOFFICIAL-lmi-test.zip",
+      "version": "22.2"
     }
   ]
 }
