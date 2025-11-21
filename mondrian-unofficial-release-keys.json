@@ -209,6 +209,16 @@
       "size": 2113208246,
       "url": "https://github.com/android-kxxt/cicd/releases/download/mondrian-2025-11-14-02-46-43-release//lineage-23.0-2025-11-14-02-46-43-UNOFFICIAL-mondrian.zip",
       "version": "23.0"
+    },
+    {
+      "datetime": 1763693507,
+      "filename": "lineage-23.0-2025-11-21-02-51-47-UNOFFICIAL-mondrian.zip",
+      "id": "cad5889bca6cf1652cfbd3f3060dd04b",
+      "sha256": "cad5889bca6cf1652cfbd3f3060dd04b87493fc5e98bec33fa1ebe8d9ed3526a",
+      "romtype": "UNOFFICIAL",
+      "size": 2113228799,
+      "url": "https://github.com/android-kxxt/cicd/releases/download/mondrian-2025-11-21-02-51-47-release//lineage-23.0-2025-11-21-02-51-47-UNOFFICIAL-mondrian.zip",
+      "version": "23.0"
     }
   ]
 }
